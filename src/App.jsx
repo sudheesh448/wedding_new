@@ -142,7 +142,7 @@ function App() {
           <h2 className="text-4xl md:text-5xl font-['Dancing_Script',_cursive] mb-6">Join Our Celebration</h2>
           <p className="mb-8 text-lg">We look forward to celebrating with you. Please RSVP by May 01, 2025.</p>
           <a
-            href="https://wa.me/919876543210?text=Hello%2C%20I%20would%20like%20to%20RSVP%20for%20Sudheesh%20%26%20Rincy's%20wedding."
+            href="https://wa.me/918086611001?text=Hello%2C%20I%20would%20like%20to%20RSVP%20for%20Sudheesh%20%26%20Rincy's%20wedding."
             target="_blank"
             rel="noopener noreferrer"
             className="inline-flex items-center bg-white text-pink-600 font-semibold py-3 px-6 rounded-full shadow-md hover:bg-pink-100 gap-2"
